@@ -9,11 +9,11 @@ This boilerplate is designed to create applications with **NestJS**, a framework
 
 ## Installation
 
-1. **Clone the repository:** **
+1. **Clone the repository:**
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_REPOSITORIO>
+   git clone https://github.com/andradaalucas/nodejs-nestjs-express.git
+   cd nodejs-nestjs-express
    ```
 
 1. **Instala las dependencias:**
