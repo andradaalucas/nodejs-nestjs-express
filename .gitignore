@@ -1,0 +1,37 @@
+# Node modules
+/node_modules/
+
+# TypeScript build output
+/dist/
+
+# Log files
+*.log
+
+# Environment files
+.env
+
+# IDE or editor directories
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# npm package-lock
+/package-lock.json
+
+# TypeScript temporary files
+*.tsbuildinfo
+
+# NestJS specific
+/.nestjs/
+
+# Jest test coverage output
+/coverage/
+
+# Debugger for Node.js
+/.vscode-test/
+
+# Tyepscript declaration files
+*.d.ts
